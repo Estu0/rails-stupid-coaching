@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .answer {
+  margin-left: 8px;
+  padding-left: 15px;
+  background-color: #FFFFE1;
+ }
+
+ .question {
+  margin-left: 8px;
+  padding-left: 15px;
+  background-color: white;
+ }
+
+ .layer {
+  background-color: #DDDDDD;
+ }
